@@ -1,0 +1,7 @@
+my first code file
+
+learning 
+- devops
+- git
+- aws
+- python
